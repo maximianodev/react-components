@@ -1,0 +1,159 @@
+{
+  "data": {
+    "categories": [
+      {
+        "id": 1,
+        "slug": "category",
+        "name": "Category",
+        "href": "/category",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 2,
+        "slug": "adega",
+        "name": "adega",
+        "href": "/adega",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 3,
+        "slug": "hortifruti",
+        "name": "hortifruti",
+        "href": "/hortifruti",
+        "hasChildren": true,
+        "children": [
+          {
+            "id": 16,
+            "slug": "verduras",
+            "name": "verduras",
+            "href": "/hortifruti/verduras",
+            "hasChildren": true,
+            "children": [
+              {
+                "id": 19,
+                "slug": "alface",
+                "name": "alface",
+                "href": "/hortifruti/verduras/alface",
+                "hasChildren": false
+              }
+            ]
+          },
+          {
+            "id": 17,
+            "slug": "frutas",
+            "name": "frutas",
+            "href": "/hortifruti/frutas",
+            "hasChildren": false,
+            "children": []
+          },
+          {
+            "id": 18,
+            "slug": "legumes",
+            "name": "legumes",
+            "href": "/hortifruti/legumes",
+            "hasChildren": false,
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "slug": "mercearia",
+        "name": "mercearia",
+        "href": "/mercearia",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 5,
+        "slug": "bebidas",
+        "name": "bebidas",
+        "href": "/bebidas",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 6,
+        "slug": "congelados-e-resfriados",
+        "name": "congelados e resfriados",
+        "href": "/congelados-e-resfriados",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 7,
+        "slug": "frios-e-embutidos",
+        "name": "frios e embutidos",
+        "href": "/frios-e-embutidos",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 8,
+        "slug": "laticinios",
+        "name": "laticinios",
+        "href": "/laticinios",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 9,
+        "slug": "biscoiteria",
+        "name": "biscoiteria",
+        "href": "/biscoiteria",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 10,
+        "slug": "acougue",
+        "name": "acougue",
+        "href": "/acougue",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 11,
+        "slug": "peixaria",
+        "name": "peixaria",
+        "href": "/peixaria",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 12,
+        "slug": "padaria",
+        "name": "padaria",
+        "href": "/padaria",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 13,
+        "slug": "rotisseria",
+        "name": "rotisseria",
+        "href": "/rotisseria",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 14,
+        "slug": "floricultura",
+        "name": "floricultura",
+        "href": "/floricultura",
+        "hasChildren": false,
+        "children": []
+      },
+      {
+        "id": 15,
+        "slug": "pet",
+        "name": "pet",
+        "href": "/pet",
+        "hasChildren": false,
+        "children": []
+      }
+    ]
+  }
+}
